@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[80334,["/shopping2/_next/static/chunks/2h_kgor0tbmms.js","/shopping2/_next/static/chunks/0ttit30ofm-3v.js"],"default"]
+3:I[97367,["/shopping2/_next/static/chunks/2h_kgor0tbmms.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/shopping2/_next/static/chunks/2h_kgor0tbmms.js"],"ViewportBoundary"]
+9:I[97367,["/shopping2/_next/static/chunks/2h_kgor0tbmms.js"],"MetadataBoundary"]
+a:I[27201,["/shopping2/_next/static/chunks/2h_kgor0tbmms.js"],"IconMark"]
+c:I[39756,["/shopping2/_next/static/chunks/2h_kgor0tbmms.js"],"default"]
+d:I[37457,["/shopping2/_next/static/chunks/2h_kgor0tbmms.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"jQffsYdpCWmxnql6LDAEr","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"3","brand":"Basic Standard","name":"나일론 스트링 백팩","category":"가방","subcategory":"토트백","price":70000,"salePrice":56000,"discount":20,"image":"https://images.unsplash.com/photo-1605733513597-a8f8341084e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8ZmFzaGlvbiUyMGJhZ3xlbnwwfHx8fDE3OTA4NDQzMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080","hoverImage":"https://images.unsplash.com/photo-1559563458-527698bf5295?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Nnx8ZmFzaGlvbiUyMGJhZ3xlbnwwfHx8fDE3OTA4NDQzMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080","colors":["Charcoal","Blue","Black","Gray"],"sizes":["FREE"],"rating":4.9,"reviewCount":345,"likeCount":1899,"isNew":false,"isSale":true,"freeShipping":false,"description":"Basic Standard의 나일론 스트링 백팩입니다. 미니멀한 디자인과 우수한 품질이 특징이며 다양한 스타일링에 활용하기 좋은 아이템입니다.","detailImages":["https://images.unsplash.com/photo-1506152983158-b4a74a01c721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8ZmFzaGlvbiUyMGJhZyUyMGRldGFpbHxlbnwwfHx8fDE3OTA4NDc0ODF8MA&ixlib=rb-4.1.0&q=80&w=1080","https://plus.unsplash.com/premium_photo-1724862979245-71e659b98366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OXx8ZmFzaGlvbiUyMGJhZyUyMGRldGFpbHxlbnwwfHx8fDE3OTA4NDc0ODF8MA&ixlib=rb-4.1.0&q=80&w=1080"]}}],[["$","script","script-0",{"src":"/shopping2/_next/static/chunks/0ttit30ofm-3v.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"4910 - Minimal Fashion E-commerce"}],["$","meta","1",{"name":"description","content":"미니멀한 패션 편집숍 4910"}],["$","link","2",{"rel":"icon","href":"/shopping2/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$La","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+5:null
+12:true
+7:300
+7:C
+11:0
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+6:"$undefined"
